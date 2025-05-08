@@ -2,6 +2,7 @@
 This a scraper app with a dyanamic GUI for extracting stories from Ontario Tech's news page based on keywords into an easily accesible CSV file. The UI is created used Tkinter and the data scraping is 
 hanlded using beautifulsoup4. This app is designed to be used by the memebers of the advancement team at Ontario Tech but a desicion has been made to make it publicily available. 
 
+![til](./media/demo.gif)
 ## Features
 
 - Filter stories by year.
